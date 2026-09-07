@@ -147,8 +147,8 @@ HELP_TEXT = """
 🔒 *Lock System:*
 /lock — Chat lock (messages band)
 /unlock — Chat unlock
-/lockall — SAB KUCH lock (messages+media+stickers+polls)
-/unlockall — SAB KUCH unlock
+/lock_all — SAB KUCH lock (messages+media+stickers+polls)
+/unlock_all — SAB KUCH unlock
 /locks — Lock status dekho
 
 🔗 *Link Ban:*
